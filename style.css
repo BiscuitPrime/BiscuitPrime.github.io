@@ -1,0 +1,28 @@
+body {
+    background-color: blanchedalmond;
+}
+
+/*We add the css for a top navigation bar*/
+.topnavbar {
+    background-color:lightgoldenrodyellow;
+    overflow: hidden;
+}
+
+.topnavbar a {
+    text-align: center;
+    font-size: medium;
+    padding: 14px 16px;
+    float: left;
+}
+
+.topnavbar a:hover{
+    background-color: darksalmon;
+    color: black;
+}
+
+.topnavbar a:active{
+    background-color:azure;
+    color: white;
+}
+
+/*--------------------------------------------------------------------------*/
