@@ -336,16 +336,6 @@ a:focus {
   margin-top: -150px;
 }
 
-.service_section_grid_projects {
-  text-align: center;
-  color: #f9fcfb;
-  background-size: 100% 100%;
-  padding-top: 275px;
-  padding-bottom: 125px;
-  background-repeat: no-repeat;
-  margin-top: -150px;
-}
-
 .service_section .custom_heading-container h2 {
   border-color: #f9fcfb;
 }
@@ -363,6 +353,8 @@ a:focus {
 
 .service_section .service_container .service_box {
   width: 30%;
+  height: 30%;
+  min-height:300px;
   min-width: 300px;
   margin: 35px 15px;
 }
