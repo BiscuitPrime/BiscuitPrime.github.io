@@ -18,6 +18,10 @@
     background-size: cover;
   }
 
+  .grid_section{
+    background-size: cover;
+  }
+
   .slider_section ol.carousel-indicators {
     display: none;
 
@@ -124,6 +128,12 @@
   }
 
   .service_section {
+    padding-top: 375px;
+    background-position: bottom;
+    margin-top: -325px;
+  }
+
+  .grid_section {
     padding-top: 375px;
     background-position: bottom;
     margin-top: -325px;
