@@ -408,7 +408,7 @@ a:focus {
   background: linear-gradient(to right, #864ddf, #203376);
   padding-top: 275px;
   padding-bottom: 125px;
-  background-repeat: no-repeat;
+  background-repeat:repeat;
   margin-top: -150px;
 }
 
