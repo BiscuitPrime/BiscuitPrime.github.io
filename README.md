@@ -1,3 +1,3 @@
-# My personnal Github page
+# My personnal Website
 
-Used to display my work and projects for CVs
+Used to display my various work and projects.
